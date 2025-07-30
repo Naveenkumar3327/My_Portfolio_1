@@ -1,4 +1,3 @@
-
 # 🧑‍💻 Naveenkumar D – Developer Portfolio
 
 ![Hero Screenshot](https://pbs.twimg.com/media/GqQFT0UbAAIXgP_?format=jpg&name=large)
@@ -27,19 +26,18 @@ Welcome to my personal portfolio website built using **React.js**. This site sho
 
 ## 📂 Project Structure
 
-```
 portfolio-hero/
 ├── public/
-│   └── ...
+│ └── ...
 ├── src/
-│   ├── components/
-│   │   └── Hero.jsx
-│   ├── App.js
-│   └── index.js
+│ ├── components/
+│ │ └── Hero.jsx
+│ ├── App.js
+│ └── index.js
 ├── tailwind.config.js
 ├── package.json
 └── README.md
-```
+
 
 ---
 
@@ -65,10 +63,7 @@ git clone https://github.com/Naveenkumar3327/your-repo-name.git
 cd your-repo-name
 npm install
 npm start
-```
 
----
 
-## 🌐 Live Preview (Optional)
 
-> You can deploy using Vercel or Netlify and add the live link here later.
+If you want, I can also help you write the `package.json`, `.gitignore`, and deploy configuration files. Let me know!
